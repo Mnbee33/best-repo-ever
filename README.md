@@ -2,4 +2,4 @@
 
 GitとGithubの基本
 
-newbranch1の変更
+newbranch2の修正
